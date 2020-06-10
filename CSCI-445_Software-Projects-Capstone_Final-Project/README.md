@@ -8,3 +8,7 @@ This project was developed using [Ansible](https://www.ansible.com/), an automat
 Ansible uses OpenSSH, including existing ssh infrastructure, to run commands remotely and return the results organized in a JSON file.
 This can be automatically parsed using Jinja2 (a python-based, templating language) to produce neat and condensed results from complex actions, as seen in the video above.
 Documentation for Ansible and Jinja2 can be [found here](https://docs.ansible.com/ansible/latest/index.html).
+
+The overall goal of this project was to create a prototype Ansible script (or playbook) that automatically queries servers for needed updates, parses and organizes the data, and emails the results to a list of designated recipients.
+The project was a complete success, and is being further developed by Blue Crosss & Blue Shield right now.
+This will eventually replace a piece of software that is costing the company a significant amount of money in anual subscriptions.
