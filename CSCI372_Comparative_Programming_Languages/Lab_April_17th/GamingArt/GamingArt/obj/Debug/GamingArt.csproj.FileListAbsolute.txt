@@ -1,0 +1,9 @@
+D:\GamingArt\GamingArt\bin\Debug\GamingArt.exe.config
+D:\GamingArt\GamingArt\bin\Debug\GamingArt.exe
+D:\GamingArt\GamingArt\bin\Debug\GamingArt.pdb
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.csprojResolveAssemblyReference.cache
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.frmArt.resources
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.Properties.Resources.resources
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.csproj.GenerateResource.Cache
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.exe
+D:\GamingArt\GamingArt\obj\Debug\GamingArt.pdb

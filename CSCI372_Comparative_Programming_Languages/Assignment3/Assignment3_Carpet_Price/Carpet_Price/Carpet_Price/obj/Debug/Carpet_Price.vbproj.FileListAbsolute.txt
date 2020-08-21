@@ -1,0 +1,11 @@
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\bin\Debug\Carpet_Price.exe.config
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\bin\Debug\Carpet_Price.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\bin\Debug\Carpet_Price.pdb
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\bin\Debug\Carpet_Price.xml
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.vbprojResolveAssemblyReference.cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.Form1.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.Resources.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.vbproj.GenerateResource.Cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.xml
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Carpet_Price\Carpet_Price\obj\Debug\Carpet_Price.pdb

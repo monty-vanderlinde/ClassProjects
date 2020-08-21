@@ -1,0 +1,11 @@
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.csprojResolveAssemblyReference.cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.Cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.pdb

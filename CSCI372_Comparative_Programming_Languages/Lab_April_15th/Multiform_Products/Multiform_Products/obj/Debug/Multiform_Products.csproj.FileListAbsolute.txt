@@ -1,0 +1,12 @@
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\bin\Debug\ProductDB.mdf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\bin\Debug\ProductDB_log.ldf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\bin\Debug\Multiform_Products.exe.config
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\bin\Debug\Multiform_Products.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\bin\Debug\Multiform_Products.pdb
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.csprojResolveAssemblyReference.cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.Details.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.MainForm.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.Properties.Resources.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.csproj.GenerateResource.Cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Multiform_Products\Multiform_Products\obj\Debug\Multiform_Products.pdb

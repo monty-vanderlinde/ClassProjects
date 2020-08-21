@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <style>
+        table, td {
+            border: 1px solid black;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Assignment2JS.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="inputForm">
+        <table>
+            <tr>
+                <td><label for="fName">First Name:</label></td>
+                <td><input type="text" id="fName" required pattern="[A-Za-z]+"></td>
+            </tr>
+            <tr>
+                <td><label for="lName">Last Name:</label></td>
+                <td><input type="text" id="lName" required pattern="[A-Za-z]+"></td>
+            </tr>
+            <tr>
+                <td><label for="phNumber">Phone Number (only digits and dashes (0 - 9) ):</label></td>
+                <td><input type="text" id="phNumber" required pattern="[0-9-]+"></td>
+            </tr>
+            <tr>
+                <td><label for="paNumber">Number of Panels (whole number from 2 to 1000 without commas):</label></td>
+                <td><input type="number" id="paNumber" required></td>
+            </tr>
+            <tr>
+                <td><label for="deposit">Deposit:</label></td>
+                <td><input type="text" id="deposit" required pattern="[0-9.]+"></td>
+            </tr>
+            <tr>
+                <td><label for="expressLabel">Want Express Installation (additional 5% on total):</label></td>
+                <td><input id="checkbox" type="checkbox" /></td>
+            </tr>
+        </table>
+        <button type="submit" id="submit">Submit</button>
+    </form>
+    <br />
+    <form id="outputForm" hidden>
+        <label id="name">Temp</label>
+        <br />
+        <label id="phone">Temp</label>
+        <br />
+        <label id="base">Temp</label>
+        <br />
+        <label id="additional">Temp</label>
+        <br />
+        <label id="total">Temp</label>
+        <br />
+        <label id="depositOutput">Temp</label>
+        <br />
+        <label id="balance">Temp</label>
+        <br />
+    </form>
+</body>
+</html>

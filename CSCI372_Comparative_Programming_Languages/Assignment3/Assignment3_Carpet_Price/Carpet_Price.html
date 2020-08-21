@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<style>
+    html {
+        font-family: "Times New Roman", Times, serif;
+    }
+
+    table, td {
+        border: 1px solid black;
+    }
+</style>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Carpet Price Calculator</title>
+    <script src="Carpet_Price.js" type="text/javascript"></script>
+</head>
+
+<body id="body">
+    <p>Carpet Data:</p>
+    <table>
+        <tr>
+            <td><label>Color:</label></td>
+            <td><input type="text" id="color" required pattern="[A-Za-z ]+"></td>
+        </tr>
+        <tr>
+            <td><label>Style:</label></td>
+            <td><input type="text" id="style" required pattern="[A-Za-z ]+"></td>
+        </tr>
+        <tr>
+            <td><label>Price* (per square foot):</label></td>
+            <td><input type="number" id="price" step="0.01" required></td>
+        </tr>
+    </table>
+    <br>
+    <p>Dimensions:</p>
+    <table>
+        <tr>
+            <td><label>Width*:</label></td>
+            <td><input type="number" id="width" step="0.01" required></td>
+        </tr>
+        <tr>
+            <td><label>Length*:</label></td>
+            <td><input type="number" id="length" step="0.01" required></td>
+        </tr>
+        <tr>
+            <td><label>Area:</label></td>
+            <td><label id="area">81</label></td>
+        </tr>
+    </table>
+    <br>
+    <p>* Means that the number can only be specified to the 1/100th place (i.e. 10.26, not 10.264)</p>
+    <br>
+    <button type="submit" id="submit">Submit</button>
+    <br><br>
+    <table>
+        <tr>
+            <td><label>Total Cost:</label></td>
+            <td width="100"><label id="total"></label></td>
+        </tr>
+    </table>
+</body>
+
+</html>

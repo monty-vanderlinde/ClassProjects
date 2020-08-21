@@ -1,0 +1,11 @@
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\bin\Debug\ProductDB.mdf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\bin\Debug\ProductDB_log.ldf
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\bin\Debug\Product_Lookup.exe.config
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\bin\Debug\Product_Lookup.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\bin\Debug\Product_Lookup.pdb
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.csprojResolveAssemblyReference.cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.productNumberListBox.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.Properties.Resources.resources
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.csproj.GenerateResource.Cache
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.exe
+c:\users\monty.vanderlinde\documents\visual studio 2017\Projects\Product_Lookup\Product_Lookup\obj\Debug\Product_Lookup.pdb

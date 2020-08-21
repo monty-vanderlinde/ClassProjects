@@ -1,0 +1,10 @@
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\bin\Debug\Assignment2CSharp.exe.config
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\bin\Debug\Assignment2CSharp.exe
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\bin\Debug\Assignment2CSharp.pdb
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.csprojResolveAssemblyReference.cache
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.Form1.resources
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.Properties.Resources.resources
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.csproj.GenerateResource.Cache
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.exe
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.pdb
+C:\Users\monty.vanderlinde\Documents\Assignment2CSharp\Assignment2CSharp\obj\Debug\Assignment2CSharp.Form2.resources
